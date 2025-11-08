@@ -1,4 +1,4 @@
 # Quiz4
 This is my First Repository
 
-This is master branch
+This is main branch
